@@ -8,6 +8,4 @@ public class Computer {
     MainBoard mainBoard;
     PcCase pcCase; Cooler cooler;
     HddSsd hddSdd; Psu psu;
-
-
 }
