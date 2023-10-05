@@ -1,0 +1,13 @@
+package combuild;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CombuildApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CombuildApplication.class, args);
+	}
+
+}
